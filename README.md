@@ -18,6 +18,12 @@ Arithmetic Army is a fast-paced decision-based CLI game implemented in F#. Your 
    ```
 3. Ensure your terminal window is sufficiently large (at least 80 columns wide and 40 lines high is recommended) to view the game properly.
 
+### Controls
+
+- A: Move to left lane
+- D: Move to right lane
+- Space: Immediately pass the current gate
+
 ---
 
 ## Gameplay Video
